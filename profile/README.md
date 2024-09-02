@@ -20,8 +20,9 @@
 
 <style>
   div img {
-    width: 150px; /* Set the width you prefer */
-    height: 150px; /* Set the height you prefer */
+    display: flex;
+    width: 50px; /* Set the width you prefer */
+    height: 50px; /* Set the height you prefer */
     object-fit: contain; /* Ensures the image maintains its aspect ratio */
     margin: 10px; /* Optional: adds space around images */
   }
