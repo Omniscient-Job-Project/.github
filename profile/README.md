@@ -58,12 +58,12 @@
   <table>
     <tr>
        <td align="center">
-        <strong>김화연</strong><br>
+        <strong align="center">김화연</strong><br>
         <img src="https://avatars.githubusercontent.com/KHY90" width="100" height="100"><br>
         <a href="https://github.com/KHY90">GitHub</a>
       </td>
       <td align="center">
-        <strong>신주연</strong><br>
+        <strong align="center">신주연</strong><br>
         <img src="https://avatars.githubusercontent.com/u/166350778?v=4" width="100" height="100"><br>
         <a href="https://github.com/shinjoo12">GitHub</a>
       </td>
@@ -73,12 +73,12 @@
         <a href="https://github.com/wooseungyeop">GitHub</a>
       </td>
       <td align="center">
-        <strong>김재석</strong><br>
+        <strong align="center">김재석</strong><br>
         <img src="https://avatars.githubusercontent.com/u/166350670?v=4" width="100" height="100"><br>
         <a href="https://github.com/kimjaesuk">GitHub</a>
       </td>
       <td align="center">
-        <strong>목진희</strong><br>
+        <strong align="center">목진희</strong><br>
         <img src="https://avatars.githubusercontent.com/Jin-tonix" width="100" height="100"><br>
         <a href="https://github.com/Jin-tonix">GitHub</a>
       </td>
