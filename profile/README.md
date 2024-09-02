@@ -1,9 +1,7 @@
 # 전지적 구직자 시점(전직자) 프로젝트!
 <br>
-개발자 : 김화연, 신주연, 우승엽, 김재석, 목진희
 <br>
-개발기간 : 2024-08-06 ~ 2024-10-02
-
+---
 
 <br>
 <div align="center">
@@ -50,3 +48,40 @@
 ‘전지적 구직자 시점(전직자)’은 구직자들이 더 나은 취업 기회를 발견하고, 자신의 커리어를 효과적으로 발전시킬 수 있도록 지원하는 것을 목표로 합니다.
 
 ---
+<br><br>
+
+  <h3>🚀프로젝트 기간</h3>
+  <p>2024.08.26 ~ 10.02</p>
+  <br>
+  <h3 align="center">🚀기여자</h3>
+  <br>
+  <table>
+    <tr>
+       <td align="center">
+        <strong>김화연</strong><br>
+        <img src="https://avatars.githubusercontent.com/KHY90" width="100" height="100"><br>
+        <a href="https://github.com/KHY90">GitHub</a>
+      </td>
+      <td align="center">
+        <strong>신주연</strong><br>
+        <img src="https://avatars.githubusercontent.com/u/166350778?v=4" width="100" height="100"><br>
+        <a href="https://github.com/shinjoo12">GitHub</a>
+      </td>
+      <td align="center">
+        <strong>우승엽</strong><br>
+        <img src="https://avatars.githubusercontent.com/u/166350761?v=4" width="100" height="100"><br>
+        <a href="https://github.com/wooseungyeop">GitHub</a>
+      </td>
+      <td align="center">
+        <strong>김재석</strong><br>
+        <img src="https://avatars.githubusercontent.com/u/166350670?v=4" width="100" height="100"><br>
+        <a href="https://github.com/kimjaesuk">GitHub</a>
+      </td>
+      <td align="center">
+        <strong>목진희</strong><br>
+        <img src="https://avatars.githubusercontent.com/Jin-tonix" width="100" height="100"><br>
+        <a href="https://github.com/Jin-tonix">GitHub</a>
+      </td>
+    </tr>
+  </table>
+  <br>
