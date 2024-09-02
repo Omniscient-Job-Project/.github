@@ -55,7 +55,7 @@
   <br>
   <h3 align="center">🚀기여자</h3>
   <br>
-  <table>
+  <table align="center">
     <tr>
        <td align="center">
         <strong align="center">김화연</strong><br>
