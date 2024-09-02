@@ -1,5 +1,24 @@
 # 전지적 구직자 시점(전직자) 프로젝트!
 
+<br>
+<div align="center">
+  
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <a href="https://github.com/Omniscient-Job-Project/.github/wiki">
+    <img src="https://e7.pngegg.com/pngimages/443/175/png-clipart-github-repository-source-code-version-control-github-logo-monochrome.png" alt="전직시 WIKI">
+  </a>
+  <a href="https://miro.com/app/board/uXjVKmravxw=/">
+    <img src="https://e7.pngegg.com/pngimages/441/29/png-clipart-miro-logo-landscape-tech-companies.png" alt="전직시 MIRO">
+  </a>
+  <a href="https://www.figma.com/design/hhgvndaX9KAuyW00Wj512w/%EC%A0%84%EC%A7%81%EC%8B%9C?node-id=0-1&node-type=CANVAS&t=eMY624oboHtFZXyW-0" >
+    <img src="https://d2hrn0ujm7w1zq.cloudfront.net/storys/tmp/1688548091680_cedd8b4f.png" alt="전직시 FIGMA">
+  </a>
+  <a href="" >
+      <img src="" alt="전직시 ppt">
+  </a>
+</div>
+
+<br><br>
 
 ---
 
@@ -24,6 +43,3 @@
 ‘전지적 구직자 시점(전직자)’은 구직자들이 더 나은 취업 기회를 발견하고, 자신의 커리어를 효과적으로 발전시킬 수 있도록 지원하는 것을 목표로 합니다.
 
 ---
-
-진직시 피그마
-https://www.figma.com/design/hhgvndaX9KAuyW00Wj512w/%EC%A0%84%EC%A7%81%EC%8B%9C?node-id=0-1&node-type=CANVAS&t=eMY624oboHtFZXyW-0
