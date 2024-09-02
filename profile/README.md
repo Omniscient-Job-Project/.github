@@ -2,23 +2,31 @@
 
 <br>
 <div align="center">
-  
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <a href="https://github.com/Omniscient-Job-Project/.github/wiki">
-    <img src="https://e7.pngegg.com/pngimages/443/175/png-clipart-github-repository-source-code-version-control-github-logo-monochrome.png" alt="전직시 WIKI">
-  </a>
-  <a href="https://miro.com/app/board/uXjVKmravxw=/">
-    <img src="https://e7.pngegg.com/pngimages/441/29/png-clipart-miro-logo-landscape-tech-companies.png" alt="전직시 MIRO">
-  </a>
-  <a href="https://www.figma.com/design/hhgvndaX9KAuyW00Wj512w/%EC%A0%84%EC%A7%81%EC%8B%9C?node-id=0-1&node-type=CANVAS&t=eMY624oboHtFZXyW-0" >
-    <img src="https://w7.pngwing.com/pngs/911/515/png-transparent-figma-logo-brand-logos-brands-in-colors-icon-thumbnail.png" alt="전직시 FIGMA">
-  </a>
-  <a href="" >
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://github.com/Omniscient-Job-Project/.github/wiki">
+      <img src="https://e7.pngegg.com/pngimages/443/175/png-clipart-github-repository-source-code-version-control-github-logo-monochrome.png" alt="전직시 WIKI">
+    </a>
+    <a href="https://miro.com/app/board/uXjVKmravxw=/">
+      <img src="https://e7.pngegg.com/pngimages/441/29/png-clipart-miro-logo-landscape-tech-companies.png" alt="전직시 MIRO">
+    </a>
+    <a href="https://www.figma.com/design/hhgvndaX9KAuyW00Wj512w/%EC%A0%84%EC%A7%81%EC%8B%9C?node-id=0-1&node-type=CANVAS&t=eMY624oboHtFZXyW-0">
+      <img src="https://w7.pngwing.com/pngs/911/515/png-transparent-figma-logo-brand-logos-brands-in-colors-icon-thumbnail.png" alt="전직시 FIGMA">
+    </a>
+    <a href="">
       <img src="" alt="전직시 ppt">
-  </a>
+    </a>
+  </div>
 </div>
 
-<br><br>
+<style>
+  div img {
+    width: 150px; /* Set the width you prefer */
+    height: 150px; /* Set the height you prefer */
+    object-fit: contain; /* Ensures the image maintains its aspect ratio */
+    margin: 10px; /* Optional: adds space around images */
+  }
+</style>
+
 
 ---
 
