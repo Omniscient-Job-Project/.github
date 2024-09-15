@@ -17,10 +17,10 @@
   <a href="https://www.figma.com/design/hhgvndaX9KAuyW00Wj512w/%EC%A0%84%EC%A7%81%EC%8B%9C?node-id=0-1&node-type=canvas&t=WEaUTsXm2nBdRdul-0" >
     <img src="https://github.com/user-attachments/assets/0c47536a-60f4-4530-b59c-40e49fab2136" alt="전직시 FIGMA" style="width: 150px; height: 150px; object-fit: contain; margin: 10px;">
   </a>
-  <a href="">
-
-    <img src="" alt="전직시 ppt" style="width: 150px; height: 150px; object-fit: contain; margin: 10px;">
+    <a href="" >
+    <img src="https://github.com/user-attachments/assets/57a67b17-ed36-449a-88fa-a1032213a7ca" alt="전직시 PPT" style="width: 150px; height: 150px; object-fit: contain; margin: 10px;">
   </a>
+
 </div>
   
 </div>
