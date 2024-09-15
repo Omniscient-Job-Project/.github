@@ -3,6 +3,7 @@
 <br>
 ---
 
+
 <br>
 <div align="center">
   
@@ -11,12 +12,13 @@
     <img src="https://github.com/user-attachments/assets/16da7358-1931-4979-89a2-982e39784979" alt="전직시 WIKI" style="width: 150px; height: 150px; object-fit: contain; margin: 10px;">
   </a>
   <a href="https://miro.com/app/board/uXjVKmravxw=/">
-    <img src="https://e7.pngegg.com/pngimages/441/29/png-clipart-miro-logo-landscape-tech-companies.png" alt="전직시 MIRO" style="width: 150px; height: 150px; object-fit: contain; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/41520631-a6ab-4dfb-8db7-84faa31e0aad" style="width: 150px; height: 150px; object-fit: contain; margin: 10px;">
   </a>
-  <a href="https://www.figma.com/design/hhgvndaX9KAuyW00Wj512w/%EC%A0%84%EC%A7%81%EC%8B%9C?node-id=0-1&node-type=CANVAS&t=eMY624oboHtFZXyW-0" >
+  <a href="https://github.com/user-attachments/assets/0c47536a-60f4-4530-b59c-40e49fab2136" >
     <img src="https://w7.pngwing.com/pngs/911/515/png-transparent-figma-logo-brand-logos-brands-in-colors-icon-thumbnail.png" alt="전직시 FIGMA" style="width: 150px; height: 150px; object-fit: contain; margin: 10px;">
   </a>
   <a href="">
+
     <img src="" alt="전직시 ppt" style="width: 150px; height: 150px; object-fit: contain; margin: 10px;">
   </a>
 </div>
