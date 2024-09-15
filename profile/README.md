@@ -8,8 +8,7 @@
   
 <div style="display: flex; flex-direction: column; align-items: center;">
   <a href="https://github.com/Omniscient-Job-Project/.github/wiki">
-    <img src="![스크린샷 2024-09-15 231153](https://github.com/user-attachments/assets/eef0272d-7985-4993-872a-5c849ad3e112)
-" alt="전직시 WIKI" style="width: 150px; height: 150px; object-fit: contain; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/16da7358-1931-4979-89a2-982e39784979" alt="전직시 WIKI" style="width: 150px; height: 150px; object-fit: contain; margin: 10px;">
   </a>
   <a href="https://miro.com/app/board/uXjVKmravxw=/">
     <img src="https://e7.pngegg.com/pngimages/441/29/png-clipart-miro-logo-landscape-tech-companies.png" alt="전직시 MIRO" style="width: 150px; height: 150px; object-fit: contain; margin: 10px;">
