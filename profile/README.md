@@ -90,11 +90,14 @@
   </table>
   <br>
  <h2 align="center">STACKS</h2>
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
- <img src="https://img.shields.io/badge/HTML3-EE4C2C?style=for-the-badge&logo=HTML3&logoColor=white">
-<img src="https://img.shields.io/badge/TEMURINJDK17-EE4C2C?style=for-the-badge&logo=TEMURINJDK17&logoColor=white">
-<img src="https://img.shields.io/badge/JAVASCRIPT-EE4C2C?style=for-the-badge&logo=JAVASCRIPT&logoColor=white">
-<img src="https://img.shields.io/badge/DART-EE4C2C?style=for-the-badge&logo=DART&logoColor=white">
-<img src="https://img.shields.io/badge/MARKDOWN-EE4C2C?style=for-the-badge&logo=MARKDOWN&logoColor=white">
+<div align="center">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/HTML3-EE4C2C?style=for-the-badge&logo=HTML3&logoColor=white" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/TEMURINJDK17-3776AB?style=for-the-badge&logo=TEMURINJDK17&logoColor=white" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/JAVASCRIPT-5C3EE8?style=for-the-badge&logo=JAVASCRIPT&logoColor=white" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/DART-FF6F00?style=for-the-badge&logo=DART&logoColor=white" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/MARKDOWN-4479A1?style=for-the-badge&logo=MARKDOWN&logoColor=white" style="display: inline-block; margin: 5px;">
+</div>
+
 
   
