@@ -103,7 +103,7 @@
   <img src="https://img.shields.io/badge/SPRING_BOOT-F0047F?style=for-the-badge&logo=SPRING BOOT&logoColor=white" style="display: inline-block; margin: 5px;">
   <img src="https://img.shields.io/badge/SPRING_SECURITY-0288D1?style=for-the-badge&logo=SPRING SECURITY&logoColor=white" style="display: inline-block; margin: 5px;">
   <img src="https://img.shields.io/badge/SPRING_DATA_JPA-F58025?style=for-the-badge&logo=SPRING DATA JPA&logoColor=white" style="display: inline-block; margin: 5px;">
-  <img src="https://img.shields.io/badge/JSON_WEB_TOKEN-FF6F00?style=for-the-badge&logo=JSON WEB TOKEN&logoColor=white" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/JSON_WEB_TOKEN-FFF000?style=for-the-badge&logo=JSON WEB TOKEN&logoColor=white" style="display: inline-block; margin: 5px;">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/VUE.JS-00CBC6?style=for-the-badge&logo=VUE.JS&logoColor=white" style="display: inline-block; margin: 5px;">
@@ -126,7 +126,7 @@
   <img src="https://img.shields.io/badge/VERCEL-F0047F?style=for-the-badge&logo=VERCEL&logoColor=white" style="display: inline-block; margin: 5px;">
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/NOTION-4285F4?style=for-the-badge&logo=NOTION&logoColor=white" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/NOTION-FFF000?style=for-the-badge&logo=NOTION&logoColor=white" style="display: inline-block; margin: 5px;">
   <img src="https://img.shields.io/badge/FIGMA-F0047F?style=for-the-badge&logo=FIGMA&logoColor=white" style="display: inline-block; margin: 5px;">
   <img src="https://img.shields.io/badge/MIRO-0288D1?style=for-the-badge&logo=MIRO&logoColor=white" style="display: inline-block; margin: 5px;">
   <img src="https://img.shields.io/badge/CANVA-006600?style=for-the-badge&logo=CANVA&logoColor=white" style="display: inline-block; margin: 5px;">
