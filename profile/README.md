@@ -96,7 +96,7 @@
   <img src="https://img.shields.io/badge/TEMURINJDK17-3776AB?style=for-the-badge&logo=TEMURINJDK17&logoColor=white" style="display: inline-block; margin: 5px;">
   <img src="https://img.shields.io/badge/JAVASCRIPT-5C3EE8?style=for-the-badge&logo=JAVASCRIPT&logoColor=white" style="display: inline-block; margin: 5px;">
   <img src="https://img.shields.io/badge/DART-FF6F00?style=for-the-badge&logo=DART&logoColor=white" style="display: inline-block; margin: 5px;">
-  <img src="https://img.shields.io/badge/MARKDOWN-4479A1?style=for-the-badge&logo=MARKDOWN&logoColor=white" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/MARKDOWN-006600?style=for-the-badge&logo=MARKDOWN&logoColor=white" style="display: inline-block; margin: 5px;">
 </div>
 
 
