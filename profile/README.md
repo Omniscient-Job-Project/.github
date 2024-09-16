@@ -122,8 +122,8 @@
   <img src="https://img.shields.io/badge/GITHUB-F0047F?style=for-the-badge&logo=GITHUB&logoColor=white" style="display: inline-block; margin: 5px;">
   <img src="https://img.shields.io/badge/GRADLE-0288D1?style=for-the-badge&logo=GRADLE&logoColor=white" style="display: inline-block; margin: 5px;">
   <img src="https://img.shields.io/badge/DOCKER-F58025?style=for-the-badge&logo=DOCKER&logoColor=white" style="display: inline-block; margin: 5px;">
-  <img src="https://img.shields.io/badge/JENKINS-F58025?style=for-the-badge&logo=JENKINS&logoColor=white" style="display: inline-block; margin: 5px;">
-  <img src="https://img.shields.io/badge/VERCEL-F58025?style=for-the-badge&logo=VERCEL&logoColor=white" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/JENKINS-006600?style=for-the-badge&logo=JENKINS&logoColor=white" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/VERCEL-F0047F?style=for-the-badge&logo=VERCEL&logoColor=white" style="display: inline-block; margin: 5px;">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/NOTION-4285F4?style=for-the-badge&logo=NOTION&logoColor=white" style="display: inline-block; margin: 5px;">
