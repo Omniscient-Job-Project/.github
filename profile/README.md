@@ -1,5 +1,5 @@
 # 전지적 구직자 시점(전직자) 프로젝트!
-[![My Skills](https://skillicons.dev/icons?i=spring,vue,css,flutter)](https://skillicons.dev)
+
 <br>
 <br>
 
@@ -89,3 +89,8 @@
     </tr>
   </table>
   <br>
+ <h2 align="center">STACKS</h2>
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+
+
+  
