@@ -105,6 +105,32 @@
   <img src="https://img.shields.io/badge/SPRING_DATA_JPA-F58025?style=for-the-badge&logo=SPRING DATA JPA&logoColor=white" style="display: inline-block; margin: 5px;">
   <img src="https://img.shields.io/badge/JSON_WEB_TOKEN-FF6F00?style=for-the-badge&logo=JSON WEB TOKEN&logoColor=white" style="display: inline-block; margin: 5px;">
 </div>
+<div align="center">
+  <img src="https://img.shields.io/badge/VUE.JS-00CBC6?style=for-the-badge&logo=VUE.JS&logoColor=white" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/NODE.JS-F0047F?style=for-the-badge&logo=NODE.JS&logoColor=white" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/AXIOS-0288D1?style=for-the-badge&logo=AXIOS&logoColor=white" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/FLUTTER-F58025?style=for-the-badge&logo=FLUTTER&logoColor=white" style="display: inline-block; margin: 5px;">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/INTELLIJ IDEA-4285F4?style=for-the-badge&logo=INTELLIJ IDEA&logoColor=white" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/VISUAL STUDIO CODE-F0047F?style=for-the-badge&logo=VISUAL STUDIO CODE&logoColor=white" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/ANDROID STUDIO-0288D1?style=for-the-badge&logo=ANDROID STUDIO&logoColor=white" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/MYSQL-F58025?style=for-the-badge&logo=MYSQL&logoColor=white" style="display: inline-block; margin: 5px;">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/GIT-4285F4?style=for-the-badge&logo=GIT&logoColor=white" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/GITHUB-F0047F?style=for-the-badge&logo=GITHUB&logoColor=white" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/GRADLE-0288D1?style=for-the-badge&logo=GRADLE&logoColor=white" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/DOCKER-F58025?style=for-the-badge&logo=DOCKER&logoColor=white" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/JENKINS-F58025?style=for-the-badge&logo=JENKINS&logoColor=white" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/VERCEL-F58025?style=for-the-badge&logo=VERCEL&logoColor=white" style="display: inline-block; margin: 5px;">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/NOTION-4285F4?style=for-the-badge&logo=NOTION&logoColor=white" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/FIGMA-F0047F?style=for-the-badge&logo=FIGMA&logoColor=white" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/MIRO-0288D1?style=for-the-badge&logo=MIRO&logoColor=white" style="display: inline-block; margin: 5px;">
+  <img src="https://img.shields.io/badge/CANVA-006600?style=for-the-badge&logo=CANVA&logoColor=white" style="display: inline-block; margin: 5px;">
+</div>
 
 
 
