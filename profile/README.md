@@ -1,7 +1,4 @@
 # 전지적 구직자 시점(전직자) 프로젝트!
-<a href="https://github.com/seondal">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23FF5733&title_bg=%23004C99&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false" />
-</a>
 
 <br>
 <br>
