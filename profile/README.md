@@ -1,5 +1,5 @@
 # 전지적 구직자 시점(전직자) 프로젝트!
- [![HitCount](https://hits.dwyl.com/Omniscient/Omniscient.svg?style=flat-square)](http://hits.dwyl.com/Omniscient/Omniscient)
+[![HitCount](https://hits.dwyl.com/Omniscient/Omniscient.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Omniscient/Omniscient)
 
 <br>
 <br>
