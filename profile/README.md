@@ -91,6 +91,10 @@
     </tr>
   </table>
   <br>
+  <h3 align="center">🚀프로젝트 아키텍처</h3>
+  ![KakaoTalk_20240930_160511590](https://github.com/user-attachments/assets/81bff701-3a2d-4962-8ab0-f678516298bb)
+
+  <br><br>
 <h2 align="center">STACKS</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" style="display: inline-block; margin: 5px;">
