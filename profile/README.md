@@ -92,7 +92,9 @@
   </table>
   <br>
   <h3 align="center">🚀프로젝트 아키텍처</h3>
-  ![KakaoTalk_20240930_160511590](https://github.com/user-attachments/assets/81bff701-3a2d-4962-8ab0-f678516298bb)
+
+![KakaoTalk_20240930_160511590](https://github.com/user-attachments/assets/aed47f01-e47a-4799-87d2-5ae88ce56657)
+
 
   <br><br>
 <h2 align="center">STACKS</h2>
